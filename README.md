@@ -1,7 +1,7 @@
 ## EXPERIMENT 01: IMPLEMENTATION OF BAYESIAN NETWORKS
-<H3> Name : Rithiga Sri B</H3>
-<H3>Register No : 212221230083</H3>
-<H3>DATE: 01.09.2024</H3>
+### Name : Rithiga Sri B
+### Register No : 212221230083
+### DATE: 01.09.2024
 ## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
@@ -21,7 +21,7 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-```
+``` python
 import pandas as pd # for data manipulation
 import networkx as nx # for drawing graphs
 import matplotlib.pyplot as plt # for drawing graphs
